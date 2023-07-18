@@ -6,6 +6,7 @@
 /**
  * print _to_98 - Prints all natural numbers from n to 98
  * @n: The number to start printing from
+ * Description: This function prints all the natural numbers from `n` to 98
  * Return: Always 0.
  */
 
